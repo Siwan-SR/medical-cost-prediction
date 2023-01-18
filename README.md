@@ -17,6 +17,7 @@ The model was made using an excellent library called [Scikit-Learn](https://scik
 * Preprocessing Data
 * Preprocessing Data 2
 * Preprocessing Data 3
+* Feature Importance
 
 ## 🔍 What you will find
 
@@ -26,6 +27,7 @@ The model was made using an excellent library called [Scikit-Learn](https://scik
 * A model report function
 * 3 kinds of Preprocessing ways
 * The best model reports
+* The features that contribute most to the outcome (Feature Importance)
 
 ## How to clone the project
 
